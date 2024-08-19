@@ -78,4 +78,4 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 
 **Vague prompt**: Describe what unit testing is and give its importance.
 **Improved Prompt**: Act as an experienced software engineer, describe unit testing in terms of software quality assurance, and state why it is necessary in the process of developing software systems. 
-**Justification of Improved Prompt**: The improved prompt has the context of software engineering. This guides the AI model to respond in software engineering rather than giving the generic definition of unit testing. This allows the user to get a response explaining what unit testing is regarding software quality assurance. 
+**Justification of Improved Prompt**: The improved prompt has the context of software engineering. This guides the AI model to respond in software engineering rather than giving the generic definition of unit testing. This allows the user to get a response explaining what unit testing is regarding software quality assurance.
